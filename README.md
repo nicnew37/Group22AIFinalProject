@@ -23,14 +23,28 @@ nltk pandas keras plotly scikit-learn matplotlib streamlit
 
 
 
-Installation into  python script
+## Installation into  python script
+
 `
 pip install nltk pandas keras plotly scikit-learn matplotlib streamlit
-
 `
 
 In your preferred environment, Open and run your  python script.
 
+## Project Structure 
+'intents.json' was the dataset containing the patterns and intents
+'model.h5' is our  trained neural network
+'data1.pickle' is the pickle file containing the essential data(words, labels, training data, and output).
+'finproj.py' is the Streamlit application
+
+## Streamlit Chatbot
+Run the Streamlit application using 'finproj.py"
+Interact with the chatbot by typing in the input box and when done with your session,  type quit.
+
+## Contact us
+Contact us  for any questions or feedback at nicnew202@gmail.com and @brian.antwi@ashesi.edu.gh
+
+Thank you!
 
 
 
